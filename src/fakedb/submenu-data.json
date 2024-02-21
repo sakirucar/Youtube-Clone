@@ -1,0 +1,48 @@
+[
+    { "iconName": "material-symbols:home",
+        "menuName": "Home"
+    },
+    { "iconName": "simple-icons:youtubeshorts",
+        "menuName": "Shorts"
+    },
+    { "iconName": "material-symbols-light:subscriptions-sharp",
+        "menuName": "Subscriptions"
+    },
+    { "iconName": "simple-icons:youtubemusic" ,
+        "menuName": "Youtube Music"
+    },
+    { "iconName": "ic:sharp-account-box" ,
+        "menuName": "Your Channel"
+    },
+    { "iconName": "octicon:history-24" ,
+        "menuName": "History"
+    },
+    { "iconName": "ri:video-fill" ,
+        "menuName": "Your Videos"
+    },
+    { "iconName": "ic:baseline-watch-later" ,
+        "menuName": "Watch Later"
+    },
+    { "iconName": "mdi:download",
+        "menuName": "Downloads"
+    },
+    { "iconName": "mingcute:down-fill",
+        "menuName": "Show More"
+    },
+    { "iconName": "streamline:trending-content-solid" ,
+        "menuName": "Trending"
+    },
+    { "iconName": "iconamoon:music-1-fill",
+        "menuName": "Music"
+    },
+    { "iconName": "fluent:live-24-filled",
+        "menuName": "Live"
+    },
+    { "iconName": "mdi:youtube-gaming",
+        "menuName": "Gaming"
+    },
+    { "iconName": "solar:cup-bold",
+        "menuName": "Sports"
+    }
+
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "channelName": "Pinti Panda",
+    "channelIcon": "/images/pintipanda.jpg"
+  },
+  {
+    "channelName": "Samed Güngör",
+    "channelIcon": "/images/samedgungor.jpg"
+  },
+  {
+    "channelName": "75 FPS",
+    "channelIcon": "/images/75fps.jpg"
+  },
+  {
+    "channelName": "140 Journos",
+    "channelIcon": "/images/140journos.jpg"
+  },
+  {
+    "channelName": "Alfa Games",
+    "channelIcon": "/images/alfagames.jpg"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "thumbnailImageSrc": "/images/pcbuild.jpg",
+    "channelImageSrc": "/images/pintipanda.jpg",
+    "videoTitle": "Gaming Pc Building",
+    "channelName": "Computerzz",
+    "viewCount": "16 K",
+    "uploadTime": "3 weeks ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/reacttailwind.jpg",
+    "channelImageSrc": "/images/75fps.jpg",
+    "videoTitle": "Programming with React & Tailwind CSS",
+    "channelName": "Technopat",
+    "viewCount": "21 K",
+    "uploadTime": "5 days ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/samsung.jpg",
+    "channelImageSrc": "/images/140journos.jpg",
+    "videoTitle": "New Samsung Phone PREVİEW",
+    "channelName": "Technologies",
+    "viewCount": "1.3 M",
+    "uploadTime": "1 Year ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/videogames.png",
+    "channelImageSrc": "/images/140journos.jpg",
+    "videoTitle": "Most Popular Video Games",
+    "channelName": "Let's Play",
+    "viewCount": "143 K",
+    "uploadTime": "2 weeks ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/turkey.jpg",
+    "channelImageSrc": "images/samedgungor.jpg",
+    "videoTitle": "My Turkey Trip",
+    "channelName": "Adam's Blog",
+    "viewCount": "2.5 M",
+    "uploadTime": "3 months ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/championsleague.jpg",
+    "channelImageSrc": "/images/pintipanda.jpg",
+    "videoTitle": "Summaries Champions League Matches",
+    "channelName": "Perfect Football",
+    "viewCount": "689 K",
+    "uploadTime": "2 days ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/songs.jpg",
+    "channelImageSrc": "/images/pintipanda.jpg",
+    "videoTitle": "2023 Hit Songs",
+    "channelName": "The Musician",
+    "viewCount": "174 K",
+    "uploadTime": "3 days ago"
+  },
+  {
+    "thumbnailImageSrc": "/images/learnreact.png",
+    "channelImageSrc": "images/samedgungor.jpg",
+    "videoTitle": "I Learn React",
+    "channelName": "Clean Coding",
+    "viewCount": "256 K",
+    "uploadTime": "2 weeks ago"
+  }
+]
